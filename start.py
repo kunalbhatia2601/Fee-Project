@@ -1,6 +1,6 @@
 import eel as e
 
-e.init("Fee-Project")
+e.init("Project")
 
 @e.expose
 
